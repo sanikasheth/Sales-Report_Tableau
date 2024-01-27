@@ -45,7 +45,12 @@ Based on the view, these are the answers to the questions in the problem stateme
 6.	Which region has the highest number of products returned by customers? =?central
 7.	Which is the least profitable state?=>Texas
 
+#Dashboard:
 
+![image](https://github.com/sanikasheth/Sales-Report_Tableau/assets/78950430/3ce3c4c2-2e98-4cb2-8969-65be97752f45)
+
+#Link to Live dashboard on Tableau:
+https://public.tableau.com/views/Customdataex/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
